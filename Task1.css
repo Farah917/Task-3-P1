@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp5720640.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1550px;
+    background-position: center;
+    word-spacing: 10px;
+    line-height: 25px;
+}
+h1 {
+    text-align: center;
+    color: rgb(8, 4, 54);
+    text-shadow: 2px 2px rgb(149, 140, 216);
+    border: black solid 2px;
+    background-color: rgb(192, 235, 221);
+    margin: 50px 50px;
+    padding: 20px;
+}
+h4{
+    color: rgb(174, 72, 72);
+    text-align: right;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+a{
+    color: rgb(9, 67, 9);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+.list{
+    color: rgb(27, 27, 98);
+    font-size: 20px;
+    font-weight: bold;
+}
+#films{
+    color: rgb(77, 31, 12);
+    font-size: 20px;
+    font-weight: bold;
+}
+#IM{
+    color: rgb(57, 7, 104);
+}
